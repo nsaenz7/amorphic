@@ -15,7 +15,7 @@
     "mongodb-bluebird": "0.1.2",
     "nconf": "0.8.5",
     "persistor": "2.3.*",
-    "semotus": "2.3.*",
+    "semotus": "https://github.com/nsaenz7/semotus.git#enable-strict-mode",
     "serve-static": "1.13.1",
     "supertype": "2.2.*",
     "uglify-js": "2.7.5"
